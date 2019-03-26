@@ -81,3 +81,30 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+.btnB {
+  width: 4em;
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 2em;
+  background-color: rgba(1, 80, 136, 0.657);
+  color: rgb(119, 5, 5);
+  font-size: 20px;
+  cursor: pointer;
+  font-family: Crimson; 
+  font-weight: bold;
+}
+.btnH {
+
+  display: block;
+  cursor: pointer;
+  font-size: 20px;
+  height: 65px;
+  width: 180px;
+  margin: 25px auto;
+  border: solid 2px black;
+  border-radius: 10px;
+  background-color: rgba(1, 80, 136, 0.657);
+  color: rgb(230, 213, 213);
+  font-weight: bold;
+  font-family: Crimson 
+}
